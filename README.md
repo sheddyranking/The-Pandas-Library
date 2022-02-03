@@ -6,3 +6,6 @@ WHY PANDAS:
 1. Flexibility
 
 2. Working with Big Data.
+
+The iloc and loc method are very power method used to filter out that in a dataset
+
