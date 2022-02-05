@@ -7,7 +7,7 @@ WHY PANDAS:
 
 2. Working with Big Data.
 
-The iloc and loc method are very power method used to filter out that in a dataset
+The iloc and loc method are very power method used to filtering in the dataset
 
 # Pandas operators
 & represents "and"
