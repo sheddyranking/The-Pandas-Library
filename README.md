@@ -10,8 +10,8 @@ WHY PANDAS:
 The iloc and loc method are very power method used to filtering in the dataset
 
 # Pandas operators
-& represents "and"
-| represents "or"
+& represents "and",
+| represents "or",
 ~ represent  "!/not"
 
 # Big data
