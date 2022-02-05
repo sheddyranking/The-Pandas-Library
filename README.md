@@ -13,3 +13,7 @@ The iloc and loc method are very power method used to filter out that in a datas
 & represents "and"
 | represents "or"
 ~ represent  "!/not"
+
+# Big data
+
+when loading big data break them into chunksize, use the groupby and count method to minimize the size
